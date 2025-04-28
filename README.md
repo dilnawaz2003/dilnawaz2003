@@ -1,6 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
 
-[![](https://raw.githubusercontent.com/dilnawaz/dilnawaz/master/profile.gif)](https://dilnawaz-portfolio.com/)<!-- You can create a similar GIF for your profile -->
+
+<p align="center">
+  
+  <img src="https://raw.githubusercontent.com/dilnawaz2003/dilnawaz2003/refs/heads/main/hero.gif" alt="JavaScript"  width="100%" />
+ 
+</p>
+
 
 ## Languages
 
